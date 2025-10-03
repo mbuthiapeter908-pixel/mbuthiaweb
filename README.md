@@ -20,15 +20,6 @@ This project is ideal for restaurant owners, web developers, or designers lookin
 - Clean and modular code using HTML5, CSS3, and JavaScript  
 - Ready-to-deploy structure suitable for GitHub Pages, Netlify, or Vercel 
 -- 🌐 Integrated social media icons (Facebook, Twitter, Instagram, WhatsApp) in the Contact section with hover animations for a stylish look.
- 
-
----
-
-## Screenshots / Demo
-
-![Home Page](images/screenshot-home.png)  
-![About Page](images/screenshot-about.png)  
-
 
 ---
 
@@ -109,6 +100,7 @@ Built using HTML5, CSS3, and JavaScript
 Inspired by modern restaurant websites and UI/UX best practices
 
 Thanks to power learning project, tutorials, and libraries that guided this project
+
 
 
 Live Site URL
